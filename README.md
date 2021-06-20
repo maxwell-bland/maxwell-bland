@@ -1,5 +1,3 @@
-# Other Works
-
 [Jetset](https://github.com/aerosec/jetset) is a symbolic executor which uses
 QEMU's TCG IR during analysis, allowing for the incorporation of hardware
 semantics into program analysis routines.
