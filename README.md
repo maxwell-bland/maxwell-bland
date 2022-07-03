@@ -21,5 +21,6 @@ Bill and Anton did most to all of this. I wrote some verification routines in Ha
 
 [Bluetana](https://www.usenix.org/system/files/sec19-bhaskar.pdf) is an Android application 
 and data analysis framework for detecting credit card skimming devices using bluetooth.
-I made ~1,000 commits!
+I made ~1,000 commits! The useful Android (Java) snippets, sanitized of anything sensitive, 
+are available [here](https://github.com/maxwell-bland/android-snippets).
 
