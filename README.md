@@ -1,7 +1,6 @@
 [PDF redactions are broken](https://arxiv.org/abs/2206.02285), 
 even the nontrivial ones where the underlying text is removed. I made ~1,500 commits!
-The tool is not released, but two public results are a highly precise 
-[PDF text analysis library](https://github.com/maxwell-bland/glyph-positioning) and [some defenses](https://github.com/maxwell-bland/redaction-defenses).
+[The non-dangerous parts of the tool are now available!](https://github.com/maxwell-bland/deredaction)
 
 [Y-AFL](https://github.com/maxwell-bland/yafl) is the architecture-independent 
 system-mode QEMU fuzzer used in Jetset to build an exploit for the Communication 
