@@ -1,7 +1,6 @@
 Now that my Ph.D. work is done, my main WIP is rolling out production-ready, [state-of-the-art kernel protections](https://motorolanews.com/motorola-introduces-the-motorola-edge-40-business-edition/#:~:text=With%20moto%20edge%2040%20business%20edition%2C%20Motorola%20is,threats%20and%20exploits%20used%20to%20target%20their%20devices.)
 to Motorola smartphones, improving on 14+ years of work dedicated to hypervisor-level kernel protections, and hacking
-in preventions for scarcely discussed vulnerabilities introduced by the current Android GKI and Linux. A lot of this
-is and will remain proprietary, but be on the lookout for new GPLv2 portions.
+in preventions for scarcely discussed vulnerabilities introduced by the current Android GKI and Linux.
 
 [PDF redactions are broken](https://arxiv.org/abs/2206.02285), 
 even the nontrivial ones where the underlying text is removed. I made ~1,500 commits!
