@@ -1,4 +1,4 @@
-Motorola smartphones are starting to get [state-of-the-art kernel protections](https://motorolanews.com/motorola-introduces-the-motorola-edge-40-business-edition/#:~:text=With%20moto%20edge%2040%20business%20edition%2C%20Motorola%20is,threats%20and%20exploits%20used%20to%20target%20their%20devices.), brushing the dust off of a 14 year gap in work dedicated to hypervisor-level kernel protections. If you are interested in low-level systems and Android security, [apply to research with me](https://jobs.lenovo.com/en_US/careers/Jobdetail?jobId=54898#)!  
+Motorola smartphones are starting to get [state-of-the-art kernel protections](https://motorolanews.com/motorola-introduces-the-motorola-edge-40-business-edition/#:~:text=With%20moto%20edge%2040%20business%20edition%2C%20Motorola%20is,threats%20and%20exploits%20used%20to%20target%20their%20devices.), brushing the dust off of a 14 year gap in work dedicated to hypervisor-level kernel protections.
 
 [PDF redactions are broken](https://arxiv.org/abs/2206.02285), 
 even the nontrivial ones where the underlying text is removed.
